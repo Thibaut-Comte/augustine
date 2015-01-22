@@ -22,16 +22,16 @@
     <div class="container">
 		<div class="row">
             		<div class="col-md-6">
-                		<img src="img/Decathlon.png" class="img-responsive"/>
+                		<a href="http://www.decathlon.fr/"><img src="img/Decathlon.png" title="Decathlon" class="img-responsive"/></a>
 			</div><br>
             		<div class="col-md-6">
-                		<img src="img/Eauridis.png" class="img-responsive"/>
+                		<a href="http://www.eauridis.com/"><img src="img/Eauridis.png" title="Eauridis" class="img-responsive"/></a>
 			</div><br>
 			<div class="col-md-6">
-                		<img src="img/Kartland.png" class="img-responsive"/>
+                		<a href="http://www.kartland.fr/"><img src="img/Kartland.png" title="Kartland" class="img-responsive"/></a>
 			</div><br>
             		<div class="col-md-6">
-                		<img src="img/Advixys.png" class="img-responsive"/>
+                		<a href="http://www.advixys-prevention.fr/"><img src="img/Advixys.png" title="Advixys" class="img-responsive"/></a>
         		</div>
         	</div>
 
