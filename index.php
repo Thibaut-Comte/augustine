@@ -6,14 +6,12 @@
 
 <?php include_once('inc/menu.php'); ?>
 <div class="container">
+
+<div class="background">
  <p><img src="img/banniere.jpg"  alt=""></p>
  <br/>
- <div class="row">
-    	<a href="http://www.vinci-melun.org"><img src="img/logo-ldv.png"></a>
-    	<a href="http://www.diderot.org"><img src="img/logo-diderot.jpg"></a>
-</div>
 <!-- Présentation de Augustine -->
-<div class="row">
+<div>
     <div >
         <div class="page-header">
             <h2>Augustine</h2>
@@ -72,6 +70,7 @@
 	    </p>
         </div>
     </div>
+	</div>
 </div>
 
 <?php include_once('inc/footer.php');?>

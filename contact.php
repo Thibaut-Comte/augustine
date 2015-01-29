@@ -7,7 +7,7 @@
 <?php require_once('inc/menu.php'); ?>
 
     <div class="container">
-
+	<div class="background">
         <div class="row">
             <div class="col-lg-12">
                 <h1>Contact</h1>
@@ -60,6 +60,7 @@
 						</form>						
 					</p>
 				</div>
+			</div>
 			</div>
 		
     <!-- /.container -->

@@ -9,6 +9,7 @@
     <?php require_once('inc/menu.php'); ?>
 
     <div class="container">
+
         <div class="row">
             <div class="col-lg-12">
                 <h1>Galerie</h1>

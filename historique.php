@@ -10,7 +10,7 @@ include_once('inc/fonctions.php');
 <?php include_once('inc/menu.php'); ?>
 
     <div class="container">
-
+	<div class="background">
         <div class="row">
             <div class="col-lg-12">
                 <h1>Historique</h1>
@@ -90,6 +90,7 @@ include_once('inc/fonctions.php');
 				</div>
 			</div>
     </div>
+	</div>
     <!-- /.container -->
 
     <!-- JavaScript -->

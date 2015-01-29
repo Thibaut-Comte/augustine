@@ -6,6 +6,7 @@ include_once('inc/header.php'); ?>
     <?php include_once('inc/menu.php'); ?>
     <br />
     <div class="content">
+	<div class="background">
         <!-- Contenu -->
         <div class="contentflow">
             <?php // Affichage actualités.
@@ -74,7 +75,7 @@ include_once('inc/header.php'); ?>
             }
          } ?> 
           </div>
-        
+        </div>
        </div>
 </div>
 <?php include_once('inc/footer.php'); ?>

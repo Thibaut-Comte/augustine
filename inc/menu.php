@@ -27,10 +27,14 @@
                 <li><a href="sponsors.php">&nbsp;&nbsp;Sponsors</a>
                 </li>
             </ul>
+
+    	&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.vinci-melun.org"><img src="img/logo-ldv.png" class="logo-vinci" title="Lycée Léonard de Vinici"></a>&nbsp;&nbsp;
+    	<a href="http://www.diderot.org"><img src="img/logo-diderot.jpg" class="logo-diderot" title="Lycée Diderot"></a>
+
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://facebook.com/projetaugustinemelun" target="_blank"><font color="#3b5998">&nbsp;&nbsp;facebook&nbsp;&nbsp;</font></a>
+                <li><a href="http://facebook.com/projetaugustinemelun" target="_blank"><img src="img/facebook2.png" title="Facebook" class="logo-facebook"></a>
                 </li>
-                <li><a href="http://twitter.com/ProjetAugustine" target="_blank"><font color="#4099FF">&nbsp;&nbsp;twitter&nbsp;&nbsp;</font></a>
+                <li><a href="http://twitter.com/ProjetAugustine" target="_blank"><img src="img/twitter2.png" title="Twitter" class="logo-twitter"></a>
                 </li>
                 <ul class="nav navbar-nav navbar-right navcompte">
                   <li class="dropdown" id="menuLogin">
