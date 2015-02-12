@@ -23,6 +23,7 @@
 		</ol>
 		<!-- Slides -->
 		<div class="carousel-inner">
+		<a href=""></a>
 			<!-- Page 1 -->
 			<div class="item active">
 				<div class="carousel-page">
