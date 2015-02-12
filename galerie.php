@@ -22,19 +22,19 @@
         <div class="row">
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug1.jpg">
+                    <a href="img/aug1.jpg"><img class="img-responsive" src="img/aug1.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug2.jpg">
+                    <a href="img/aug2.jpg"><img class="img-responsive" src="img/aug2.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug3.jpg">
+                    <a href="img/aug3.jpg"><img class="img-responsive" src="img/aug3.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug4.jpg">
+                    <a href="img/aug4.jpg"><img class="img-responsive" src="img/aug4.jpg"></a>
             </div>
 
         </div>
@@ -42,19 +42,19 @@
         <div class="row">
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug5.jpg">
+                    <a href="img/aug5.jpg"><img class="img-responsive" src="img/aug5.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug6.jpg">
+                    <a href="img/aug6.jpg"><img class="img-responsive" src="img/aug6.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug7.jpg">
+                    <a href="img/aug7.jpg"><img class="img-responsive" src="img/aug7.jpg"></a>
             </div>
 
             <div class="col-md-3 portfolio-item">
-                    <img class="img-responsive" src="img/aug8.jpg">
+                    <a href="img/aug8.jpg"><img class="img-responsive" src="img/aug8.jpg"></a>
             </div>
 
         </div>

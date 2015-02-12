@@ -3,6 +3,7 @@ require_once('inc/bdd_conf.php');
 require_once('inc/fonctions.php');
 include_once('inc/header.php'); ?>
 <body>
+<div class="container">
     <?php include_once('inc/menu.php'); ?>
     <br />
     <div class="content">
@@ -77,5 +78,6 @@ include_once('inc/header.php'); ?>
           </div>
         </div>
        </div>
+</div>
 </div>
 <?php include_once('inc/footer.php'); ?>

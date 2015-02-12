@@ -736,6 +736,7 @@ pre code {
 @media (min-width: 768px) {
     .container {
         width: 750px
+        background-color : #E1E6FA;
     }
 }
 

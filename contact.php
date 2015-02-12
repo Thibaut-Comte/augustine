@@ -21,24 +21,26 @@
 				<div class="container">
 					<p>Si vous souhaitez d'autres renseignements ou bien nous faire parvenir vos avis :
 				</div>
-						<br />
-				<table>
-					<tr>
-						<td>
-							<select class="form-control" name="civilite" value="">
-								<option>Mr</option>
-								<option>Mme</option>
-								<option>Mlle</option>
-								<option>Autre</option>
-							</select>
-						</td>
-						<td><input class="form-control" type="text" placeholder="Nom" name="nom" value="" id="nom" onblur="verifNom(this)" ></td>
-						<td><input class="form-control" type="text" placeholder="Prenom" name="prenom" value="" id="prenom" onblur="verifPrenom(this)" ></td>
-					</tr>	
-				</table>
 				<br />
+					<table >
+						<tr>
+							<td>
+								<select class="form-control" name="civilite" value="">
+									<option>Mr</option>
+									<option>Mme</option>
+									<option>Mlle</option>
+									<option>Autre</option>
+								</select>
+							</td>
+							<td><input class="form-control" type="text" placeholder="Nom" name="nom" value="" id="nom" onblur="verifNom(this)" ></td>
+							<td><input class="form-control" type="text" placeholder="Prenom" name="prenom" value="" id="prenom" onblur="verifPrenom(this)" ></td>
+						</tr>	
+					</table>
+				<br />
+
 				<input class="form-control" type="text" placeholder="Objet" name="objet" value="" id="objet" onblur="verifObjet(this)" />
 				<br />
+
 				<textarea style="resize:none;" class="form-control" rows="5" cols="2" placeholder="Votre message" name="message" id="message" onblur="verifMessage(this)"></textarea>			
 				<div class="modal-footer">
 					<input type="submit" class="btn btn-primary" name="Envoyer" onsubmit="verif(this.form)" />
