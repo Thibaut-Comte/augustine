@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src="img/Accueil.png" height="30" width="97"/></a>
+            <a class="navbar-brand" href="index.php"><img src="img/accueil_augustine.png" height="60" width="97"/></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
